@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  BettingCalculator.cpp
+C:\VSprojects\DungeonOfTheDemilich\BettingCalculator\BettingCalculator\BettingCalculator.cpp(144,17): warning C4244:  '*=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\VSprojects\DungeonOfTheDemilich\BettingCalculator\BettingCalculator\BettingCalculator.cpp(147,43): warning C4244:  '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\VSprojects\DungeonOfTheDemilich\BettingCalculator\BettingCalculator\BettingCalculator.cpp(148,39): warning C4244:  '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+  BettingCalculator.vcxproj -> C:\VSprojects\DungeonOfTheDemilich\BettingCalculator\Debug\BettingCalculator.exe
